@@ -1,2 +1,1 @@
-# CNN-MNIST-Model
-Comparison of CNN models with and without regularization techniques on the MNIST dataset using PyTorch.
+This project compares the performance of CNN models with and without batch normalization and dropout on the MNIST dataset using PyTorch. It demonstrates the effects of regularization on model accuracy, stability, and generalization.
